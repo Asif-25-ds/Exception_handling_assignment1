@@ -1,0 +1,22 @@
+2023-09-09 13:02:02,097 INFO i am under try and opening a file which doesn't exist
+2023-09-09 13:03:58,225 INFO i am under try an try to open a file which doesn't exist
+2023-09-09 13:03:58,225 INFO under except and try to handle error
+2023-09-09 13:03:58,233 INFO the error is handled
+2023-09-09 13:10:54,122 INFO under try and write statement ot catch error
+2023-09-09 13:10:54,124 INFO under except and catch zero divisionn error
+2023-09-09 13:17:38,945 INFO under try
+2023-09-09 13:17:38,945 INFO under else block
+2023-09-09 13:21:43,133 INFO under try block
+2023-09-09 13:21:43,134 INFO under except block
+2023-09-09 13:21:43,134 INFO under finally block
+2023-09-09 13:42:24,692 INFO defining a function to check password
+2023-09-09 13:42:25,444 INFO under try block
+2023-09-09 13:42:27,832 INFO under if-else
+
+2023-09-09 14:06:39,454 INFO defining  class which inherits exception
+2023-09-09 14:06:40,964 INFO under try block
+2023-09-09 14:06:43,280 INFO define a function to check name
+2023-09-09 14:06:43,280 INFO under else-statemnt
+2023-09-09 14:13:00,368 INFO again defining a custom exception class
+2023-09-09 14:14:39,150 INFO define a function to check age
+2023-09-09 14:14:39,150 INFO under else-statement
